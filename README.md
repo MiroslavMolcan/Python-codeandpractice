@@ -1,5 +1,5 @@
 # Portfolio
-Tento repozitář pro psaní kódu a procvičování kódu jakzyka Python.
+Tento můj repozitář je pro psaní kódu a procvičování kódu jakzyka Python.
 
 ## Co zde najdete
 - jednoduché Python projekty
