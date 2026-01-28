@@ -1,2 +1,10 @@
-# Python-codeandpractice
-Repository for coding and practicing in Python.
+# Portfolio
+Tento repozitář pro psaní kódu a procvičování kódu jakzyka Python.
+
+## Co zde najdete
+- jednoduché Python projekty
+- ukázky vytvořeného kódu
+- cvičné projekty
+
+## Kontakt
+GitHub profil: https://github.com/MiroslavMolcan
